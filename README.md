@@ -39,9 +39,7 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a>
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/139914647?s=200&v=4" alt="langchain" width="40" height="40"/></a>
   <a href="https://www.streamlit.io/" target="_blank" rel="noreferrer"><img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="streamlit" width="40" height="40"/></a>
-  <a href="https://www.gradio.app/" target="_blank" rel="noreferrer"><img src="https://gradio.app/assets/img/logo.svg" alt="gradio" width="40" height="40"/></a>
   <a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/892101?s=200&v=4" alt="beautifulsoup" width="40" height="40"/></a>
 </p>
 
