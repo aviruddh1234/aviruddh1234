@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aviruddh Singhal</h1>
 <h3 align="center">An enthusiast learner</h3>
 
-- 🔭 I’m currently working on [Harvest Hub - AI Driven Agricultural Insights](https://github.com/yagyeshvishnoi/EPICS)
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
