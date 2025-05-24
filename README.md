@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aviruddh Singhal</h1>
 <h3 align="center">An enthusiast learner</h3>
 
-- 🔭 I’m currently working on 
+I’m a Computer Science undergraduate at VIT Bhopal University with a strong interest in building impactful, real-world solutions through code. My focus areas include full-stack development, artificial intelligence, and open-source contributions.
 
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
+I’m currently exploring Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG), and enjoy working on projects that apply AI in meaningful and accessible ways.
 
-- 📫 How to reach me **aviruddhsinghal@gmail.com**
+I use GitHub to share projects, collaborate with other developers, and continuously grow through hands-on learning and community-driven development.
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WW6sJ5TZGXsVV2S02mcGIuOMe5XFo-1a/view?usp=sharing)
+Feel free to reach out at aviruddhsinghal@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,6 +40,5 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a>
   <a href="https://www.streamlit.io/" target="_blank" rel="noreferrer"><img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="streamlit" width="40" height="40"/></a>
-  <a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/892101?s=200&v=4" alt="beautifulsoup" width="40" height="40"/></a>
 </p>
 
